@@ -23,20 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerei um artigo para a plataforma DIO, utilizando os conhecimentos sobre IA, adquiridos durante o curso.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+PowerPoint
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando o chat GPT e os conhecimentos de como interagir da melhor forma para obter a melhor resposta possível, desenvolvi o artigo. E com a ferramenta PowerPoint construi a capa do artigo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://web.dio.me/articles/tecnologia-5g-e-suas-aplicacoes?back=%2Farticles&open-modal=true&page=1&order=oldest
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Interagir com maior aproveito com a IA e seus recursos é algo que agrega bastante. E aprender da forma certa como extrair o seu máximo é ótimo!
 
 ### Exemplos e Insigths
 
